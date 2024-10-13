@@ -1,1 +1,1 @@
-# xlogtamplate
+# avaloniWASM
